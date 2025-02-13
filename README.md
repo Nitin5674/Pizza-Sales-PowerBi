@@ -6,9 +6,13 @@ Using SQL for data extraction and transformation and DAX for advanced calculatio
 ## QUESTION KPIs
 
 What is the total revenue generated over a specific period?
+
 What is the monthly and yearly sales trend?
+
 How does sales performance vary by pizza category and size?
+
 What is the average order value (AOV)?
+
 How many unique customers placed orders within the given timeframe?
 What is the frequency of repeat customers?
 Which pizza type generates the highest revenue?
