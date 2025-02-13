@@ -42,6 +42,6 @@ https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image1.png
 
 https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image2.png
 
-##SQL Queries
+## SQL Queries
 
 https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx
