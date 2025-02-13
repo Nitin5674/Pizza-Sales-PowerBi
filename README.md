@@ -37,9 +37,9 @@ What is the profit margin per pizza category?
 
 ## dashboard images
 
-https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image1.png
+[Home Dashboard](https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image1.png)
 
-https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image2.png
+[Best/Worst](https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image2.png)
 
 ## SQL Queries
 
