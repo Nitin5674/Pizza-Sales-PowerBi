@@ -35,16 +35,6 @@ What is the profit margin per pizza category?
 [pizza sales csv file](https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/pizza_sales.csv)
 
 
-## Dataset Description
-The dataset consists of transactional sales data, with the following key tables:
-
-Table Name	Description
-orders	Contains order details and timestamps
-order_details	Itemized sales data for each order
-pizzas	List of available pizzas with prices & categories
-pizza_types	Details of pizza flavors and ingredients
-
-
 ## dashboard images
 
 [Home Dashboard](https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image1.png)
