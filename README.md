@@ -29,14 +29,14 @@ What is the average number of pizzas per order?
 
 What is the profit margin per pizza category?
 
-##data used
+## data used
 
 https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/pizza_sales_excel_file.xlsx
 
 https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/pizza_sales.csv
 
 
-##dashboard images
+## dashboard images
 
 https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/image1.png
 
