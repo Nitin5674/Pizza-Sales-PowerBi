@@ -32,7 +32,7 @@ What is the profit margin per pizza category?
 ## data used
 [pizza sales excel file](https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/pizza_sales_excel_file.xlsx)
 
-https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/pizza_sales_excel_file.xlsx
+
 
 https://github.com/Nitin5674/Pizza-Sales-PowerBi/blob/main/pizza_sales.csv
 
